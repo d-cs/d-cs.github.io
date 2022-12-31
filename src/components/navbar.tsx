@@ -20,12 +20,12 @@ const NavBar = () => (
                                 <Link to="/"
                                     className="block h-8 w-auto lg:hidden px-3 py-2 rounded-md text-sm font-medium text-rose-500 font-mono"
                                 >
-                                    d-cs.dev
+                                    d-cs.github.io
                                 </Link>
                                 <Link to="/"
                                     className="hidden h-8 w-auto lg:block px-3 py-2 rounded-md text-sm font-medium text-rose-500 font-mono"
                                 >
-                                    d-cs.dev
+                                    d-cs.github.io
                                 </Link>
                             </div>
                         </div>

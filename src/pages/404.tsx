@@ -17,7 +17,7 @@ const NotFoundPage = () => {
               <div
                 className="h-8 w-auto block px-3 py-2 rounded-md text-2xl font-medium text-slate-200 font-mono"
               >
-                d-cs.dev
+                d-cs.github.io
               </div>
             </Link>
           </div>
